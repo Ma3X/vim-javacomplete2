@@ -1,0 +1,1 @@
+GIT_SSL_NO_VERIFY=true git clone https://github.com/Ma3X/vim-javacomplete2

@@ -4,11 +4,11 @@ Updated version of the original [javacomplete plugin](http://www.vim.org/scripts
 
 ## Demo
 
-![vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2/raw/master/doc/demo.gif)
+![vim-javacomplete2](/doc/demo.gif)
 
 Generics demo
 
-![vim-javacomplete2](https://github.com/artur-shaik/vim-javacomplete2/raw/master/doc/generics_demo.gif)
+![vim-javacomplete2](/doc/generics_demo.gif)
 
 ## Intro
 
